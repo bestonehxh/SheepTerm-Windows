@@ -6,6 +6,13 @@ It is the Windows sibling of [SheepTerm for macOS](https://github.com/bestonehxh
 
 ## Download
 
+| Platform | Download | Requirements |
+|---|---|---|
+| 🍎 macOS | [**Latest release**](https://github.com/bestonehxh/SheepTerm/releases/latest) | macOS 26.4 (Tahoe) or later, Apple Silicon |
+| 🪟 Windows | [**Latest release**](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest) (portable zip) | Windows 10 / 11, 64-bit (x64) |
+| 🐧 Linux | Coming Soon | — |
+
+
 Go to the [latest release](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest) and download
 `SheepTerm-Portable-<version>-<build>.zip` (for example `SheepTerm-Portable-0.1-1.zip`). Windows 10 or 11, 64-bit (x64).
 The file next to it, `...zip.sig`, is the signature the built-in updater checks; you do not need it to run the app.
