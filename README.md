@@ -11,10 +11,10 @@ It is the Windows sibling of [SheepTerm for macOS](https://github.com/bestonehxh
 - **Split panes** to keep several sessions visible.
 - **Optional Google sign-in** for passphrase-encrypted sync through your own Drive.
 
-[Website & screenshots](https://bestonehxh.github.io/sheepterm/) · [macOS download](https://github.com/bestonehxh/SheepTerm/releases/latest) · [Windows download](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest)
+[Website & screenshots](https://sheepterm.com/) · [macOS download](https://github.com/bestonehxh/SheepTerm/releases/latest) · [Windows download](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest)
 
 <table>
-<tr><td><img src="https://bestonehxh.github.io/assets/win/st-highlight.webp" alt="Vendor-aware Aruba CX output highlighting" width="560"></td><td><img src="https://bestonehxh.github.io/assets/win/st-sidebar.webp" alt="Saved hosts and groups" width="560"></td></tr>
+<tr><td><img src="https://sheepterm.com/assets/win/st-highlight.webp" alt="Vendor-aware Aruba CX output highlighting" width="560"></td><td><img src="https://sheepterm.com/assets/win/st-sidebar.webp" alt="Saved hosts and groups" width="560"></td></tr>
 <tr><td>Vendor-aware highlighting</td><td>Hosts and groups on Windows</td></tr>
 </table>
 
