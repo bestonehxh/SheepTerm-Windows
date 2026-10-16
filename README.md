@@ -10,13 +10,12 @@ It is the Windows sibling of [SheepTerm for macOS](https://github.com/bestonehxh
 - **SSH, serial and local shell** with saved hosts and groups.
 - **Split panes** to keep several sessions visible.
 - **Optional Google sign-in** for passphrase-encrypted sync through your own Drive.
+- **Web tabs** (WebView2) for device web UIs, next to the console.
+- **AI panel** (Claude Code / Codex CLI, Codex sandboxed in an AppContainer) and **Network Info**.
+- **Password retry** on the same connection, Try Again after a failure, Safe multi-line paste.
 
 [Website & screenshots](https://sheepterm.com/) · [macOS download](https://github.com/bestonehxh/SheepTerm/releases/latest) · [Windows download](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest)
 
-<table>
-<tr><td><img src="https://sheepterm.com/assets/win/st-highlight.webp" alt="Vendor-aware Aruba CX output highlighting" width="560"></td><td><img src="https://sheepterm.com/assets/win/st-sidebar.webp" alt="Saved hosts and groups" width="560"></td></tr>
-<tr><td>Vendor-aware highlighting</td><td>Hosts and groups on Windows</td></tr>
-</table>
 
 Share Link is currently in testing and is not yet available in the public download. Linux support is coming soon.
 
@@ -30,7 +29,7 @@ Share Link is currently in testing and is not yet available in the public downlo
 
 
 Go to the [latest release](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest) and download
-`SheepTerm-Portable-<version>-<build>.zip` (for example `SheepTerm-Portable-0.1-1.zip`). Windows 10 or 11, 64-bit (x64).
+`SheepTerm-Portable-<version>-<build>.zip` (for example `SheepTerm-Portable-0.1-9.zip`). Windows 10 or 11, 64-bit (x64).
 The file next to it, `...zip.sig`, is the signature the built-in updater checks; you do not need it to run the app.
 
 1. Unzip the folder **somewhere of your own** (Documents, an `Apps` folder) - not Downloads or the Desktop.
