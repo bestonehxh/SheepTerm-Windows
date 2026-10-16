@@ -29,7 +29,7 @@ Share Link is currently in testing and is not yet available in the public downlo
 
 
 Go to the [latest release](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest) and download
-`SheepTerm-Portable-<version>-<build>.zip` (for example `SheepTerm-Portable-0.1-9.zip`). Windows 10 or 11, 64-bit (x64).
+`SheepTerm-Portable-<version>-<build>.zip` (the zip on the latest release is always the newest build). Windows 10 or 11, 64-bit (x64).
 The file next to it, `...zip.sig`, is the signature the built-in updater checks; you do not need it to run the app.
 
 1. Unzip the folder **somewhere of your own** (Documents, an `Apps` folder) - not Downloads or the Desktop.
