@@ -14,10 +14,10 @@ It is the Windows sibling of [SheepTerm for macOS](https://github.com/bestonehxh
 - **AI panel** (Claude Code / Codex CLI, Codex sandboxed in an AppContainer) and **Network Info**.
 - **Password retry** on the same connection, Try Again after a failure, Safe multi-line paste.
 
-[Website & screenshots](https://sheepterm.com/) · [macOS download](https://github.com/bestonehxh/SheepTerm/releases/latest) · [Windows download](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest)
+[Website & screenshots](https://sheepterm.com/) · [macOS download](https://github.com/bestonehxh/SheepTerm/releases/latest) · [Windows download](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest) · [Linux download](https://github.com/bestonehxh/SheepTerm-Linux/releases/latest)
 
 
-Share Link is currently in testing and is not yet available in the public download. Linux support is coming soon.
+Share Link is currently in testing and is not yet available in the public download.
 
 ## Download
 
@@ -25,7 +25,7 @@ Share Link is currently in testing and is not yet available in the public downlo
 |---|---|---|
 | 🍎 macOS | [**Latest release**](https://github.com/bestonehxh/SheepTerm/releases/latest) | macOS 26.4 (Tahoe) or later, Apple Silicon |
 | 🪟 Windows | [**Latest release**](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest) (portable zip) | Windows 10 / 11, 64-bit (x64) |
-| 🐧 Linux | Coming Soon | — |
+| 🐧 Linux | [Latest release](https://github.com/bestonehxh/SheepTerm-Linux/releases/latest) (portable tar.gz) | x86_64 or arm64, GTK 4 |
 
 
 Go to the [latest release](https://github.com/bestonehxh/SheepTerm-Windows/releases/latest) and download
